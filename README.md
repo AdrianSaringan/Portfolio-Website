@@ -1,6 +1,6 @@
 # Personal Portfolio — Adrian Saringan
 
-**Live site:** https://github.com/AdrianSaringan/Portfolio-Website.git  
+**Live site:** https://adriansaringan.github.io/Portfolio-Website/ 
 **Repository:** https://github.com/flunkysaringan/portfolio
 
 ## Overview
