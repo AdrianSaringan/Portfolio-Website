@@ -1,0 +1,19 @@
+# Personal Portfolio — Adrian Saringan
+
+**Live site:** https://flunkysaringan.github.io/portfolio  
+**Repository:** https://github.com/flunkysaringan/portfolio
+
+## Overview
+This is my personal portfolio website built for MITE111 / MITE113 final project.  
+It demonstrates semantic HTML5, responsive layout using CSS Grid & Flexbox, and deployment via GitHub Pages.
+
+## Tech Stack
+- HTML5 (semantic tags)
+- CSS3 (variables, Flexbox, Grid, media queries)
+- Minimal JavaScript (mobile nav, smooth scroll)
+- Deployed with GitHub Pages
+
+## Features
+- Hero, About, Skills, Projects, Contact sections
+- Responsive design for mobile, tablet, desktop
+- Projects gallery with screenshots and links to code
