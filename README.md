@@ -1,10 +1,9 @@
 # Personal Portfolio — Adrian Saringan
 
 **Live site:** https://adriansaringan.github.io/Portfolio-Website/ 
-**Repository:** https://github.com/flunkysaringan/portfolio
 
 ## Overview
-This is my personal portfolio website built for MITE111 / MITE113 final project.  
+This is my personal portfolio website built for IT ELECTIVE 3 final project.  
 It demonstrates semantic HTML5, responsive layout using CSS Grid & Flexbox, and deployment via GitHub Pages.
 
 ## Tech Stack
